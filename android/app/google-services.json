@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052770662617",
+    "project_id": "rest-app-ae5bd",
+    "storage_bucket": "rest-app-ae5bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052770662617:android:17738264ac900dd808a6c8",
+        "android_client_info": {
+          "package_name": "com.example.rest_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052770662617-stgqjqvo3a8aloui9kc1pp8lm2gk4j2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rest_app",
+            "certificate_hash": "7f6f3574419a88ce0e985d9e5e2add76c53544d0"
+          }
+        },
+        {
+          "client_id": "1052770662617-08s0pagum1dqcbs7thvg95b5jlgju0oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWF8KxZZpai1dpe3ydt5DDM3ZKAogUWkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052770662617-08s0pagum1dqcbs7thvg95b5jlgju0oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
